@@ -8,10 +8,10 @@ Este repositório contém uma documentação técnica e prática sobre o uso das
 
 ## 📘 Sumário
 
-- [Objetivo](#objetivo)
-- [Visão Geral das Ferramentas](#visão-geral-das-ferramentas)
-- [Casos de Uso](#casos-de-uso)
-- [Speech Studio](#speech-studio)
+- [Objetivo](#🎯 Objetivo)
+- [Visão Geral das Ferramentas]
+- [Casos de Uso]
+- [Speech Studio]
   - [Transcrição de Áudio](#transcrição-de-áudio)
   - [Reconhecimento de Fala Personalizado](#reconhecimento-de-fala-personalizado)
   - [Conversão Texto-para-Fala](#conversão-texto-para-fala)
