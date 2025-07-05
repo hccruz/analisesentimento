@@ -8,22 +8,22 @@ Este repositório contém uma documentação técnica e prática sobre o uso das
 
 ## 📘 Sumário
 
-- [Objetivo](#🎯 Objetivo)
+- [Objetivo]
 - [Visão Geral das Ferramentas]
 - [Casos de Uso]
 - [Speech Studio]
-  - [Transcrição de Áudio](#transcrição-de-áudio)
-  - [Reconhecimento de Fala Personalizado](#reconhecimento-de-fala-personalizado)
-  - [Conversão Texto-para-Fala](#conversão-texto-para-fala)
-- [Language Studio](#language-studio)
-  - [Análise de Sentimentos](#análise-de-sentimentos)
-  - [Extração de Entidades Nomeadas](#extração-de-entidades-nomeadas)
-  - [Classificação de Texto](#classificação-de-texto)
-- [Arquitetura de Integração](#arquitetura-de-integração)
-- [Boas Práticas](#boas-práticas)
-- [Requisitos](#requisitos)
-- [Como Usar](#como-usar)
-- [Referências](#referências)
+  - [Transcrição de Áudio]
+  - [Reconhecimento de Fala Personalizado]
+  - [Conversão Texto-para-Fala]
+- [Language Studio]
+  - [Análise de Sentimentos]
+  - [Extração de Entidades Nomeadas
+  - [Classificação de Texto]
+- [Arquitetura de Integração]
+- [Boas Práticas]
+- [Requisitos]
+- [Como Usar]
+- [Referências]
 
 ---
 
