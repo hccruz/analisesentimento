@@ -67,7 +67,6 @@ Plataforma para análise de texto com funcionalidades como análise de sentiment
 
 - Suporte a arquivos `.wav`, `.mp3`, `.ogg`, etc.
 - Idiomas e dialetos customizáveis
-- Exemplo prático incluído em [`/examples/speech-transcription`](examples/speech-transcription)
 
 ### 📌 Reconhecimento de Fala Personalizado
 
